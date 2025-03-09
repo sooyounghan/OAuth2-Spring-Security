@@ -1,2 +1,2 @@
-# OAUth2-Spring-Security-
+# OAuth2 Spring Security
 Spring Security OAuth 2.0
